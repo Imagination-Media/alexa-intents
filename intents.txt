@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "Sales"
+    },
+    {
+      "intent": "Refunds"
+    },
+    {
+      "intent": "Customers"
+    }
+  ]
+}
